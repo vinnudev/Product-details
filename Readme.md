@@ -1,5 +1,4 @@
 ## Getting Started
-
 1. **Clone or Download:**
    - If using Git, clone the repository using the following command:
      ```
