@@ -20,5 +20,5 @@ Take a moment to review the project structure:
 - `style.css`: CSS file for styling.
 - `script.js`: JavaScript file for scripting logic.
 - `README.md`: Documentation for your project.
-4. **To explore: **
+4. **To explore:**
 - Run the index.html in your browser.There you can explore the UI.
